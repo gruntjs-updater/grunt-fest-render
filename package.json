@@ -1,7 +1,7 @@
 {
   "name": "grunt-fest-render",
   "description": "Compile fest templates to static html",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "http://Grunt Fest Task",
   "author": {
     "name": "Pavel Mineev",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pmineev/grunt-contrib-fest.git"
+    "url": "git://github.com/akellbl4/grunt-fest-render.git"
   },
   "bugs": {
-    "url": "https://github.com/pmineev/grunt-contrib-fest/issues"
+    "url": "https://github.com/akellbl4/grunt-fest-render/issues"
   },
   "licenses": [
     {
@@ -31,9 +31,6 @@
     "fest": "0.8.2"
   },
   "devDependencies": {
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
     "grunt": "~0.4.2"
   },
   "peerDependencies": {
